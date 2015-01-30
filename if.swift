@@ -13,7 +13,6 @@ if num >= 20 {
     println("小于20")
 }
 
-
 // 3
 if num >= 20 {
     println("大于等于20")
